@@ -23,5 +23,7 @@ Given an array of integers, your task is to find the maximum element in the arra
 ### Example
 
 **Input:**
-``` 5
--2 -198 15 4```
+```
+5
+-2 -198 15 4 
+```
